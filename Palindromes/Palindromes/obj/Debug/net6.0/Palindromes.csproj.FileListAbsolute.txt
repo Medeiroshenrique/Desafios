@@ -1,0 +1,14 @@
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\bin\Debug\net6.0\Palindromes.exe
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\bin\Debug\net6.0\Palindromes.deps.json
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\bin\Debug\net6.0\Palindromes.runtimeconfig.json
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\bin\Debug\net6.0\Palindromes.dll
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\bin\Debug\net6.0\Palindromes.pdb
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.AssemblyInfoInputs.cache
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.AssemblyInfo.cs
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.dll
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\refint\Palindromes.dll
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.pdb
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\Palindromes.genruntimeconfig.cache
+C:\Users\Henrique Medeiros\Desktop\Dotnet_Projects\Palindromes\Palindromes\obj\Debug\net6.0\ref\Palindromes.dll
